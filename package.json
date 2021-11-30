@@ -1,0 +1,28 @@
+{
+  "name": "calculadoranpm",
+  "version": "1.0.0",
+  "description": "Libreria que realiza las operaciones basicas de matematicas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernyy0427/calculadoranpm.git"
+  },
+  "keywords": [
+    "suma",
+    "resta",
+    "division",
+    "multiplicaciones",
+    "npm",
+    "node",
+    "js"
+  ],
+  "author": "Bernardo Sandoval <bernyy0427@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bernyy0427/calculadoranpm/issues"
+  },
+  "homepage": "https://github.com/bernyy0427/calculadoranpm#readme"
+}

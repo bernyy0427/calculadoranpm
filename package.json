@@ -1,6 +1,6 @@
 {
   "name": "calculadoranpm",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Libreria que realiza las operaciones basicas de matematicas",
   "main": "index.js",
   "scripts": {
